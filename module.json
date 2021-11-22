@@ -1,0 +1,14 @@
+{
+    "name": "Ledger",
+    "alias": "ledger",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Ledger\\Providers\\LedgerServiceProvider",
+        "Modules\\Ledger\\Providers\\ListingServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 23 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Solid/pencil-alt</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="6.04996809%" y1="6.04996809%" x2="96.3285473%" y2="96.3285473%" id="linearGradient-1">
+            <stop stop-color="#5387EC" offset="0%"></stop>
+            <stop stop-color="#3B7AF4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M22.1790887,11.5472597 L20.3783075,13.3478488 C20.1947137,13.531423 19.8978387,13.531423 19.714245,13.3478488 L15.3783075,9.01237391 C15.1947137,8.82879974 15.1947137,8.53195642 15.3783075,8.34838225 L17.1790887,6.54779312 C17.9095575,5.81740229 19.0970575,5.81740229 19.8314325,6.54779312 L22.1790887,8.89519891 C22.9134637,9.62558973 22.9134637,10.812963 22.1790887,11.5472597 Z M13.8314325,9.89509223 L3.57361998,20.1518104 L2.74549498,24.8973978 C2.63221373,25.5379545 3.19080748,26.0925828 3.83143248,25.9832195 L8.57752623,25.151277 L18.8353387,14.8945588 C19.0189325,14.7109846 19.0189325,14.4141413 18.8353387,14.2305672 L14.4994012,9.89509223 C14.3119012,9.71151806 14.0150262,9.71151806 13.8314325,9.89509223 Z M7.57752623,19.2729979 C7.36268248,19.0581771 7.36268248,18.7144637 7.57752623,18.4996429 L13.5931512,12.4846597 C13.807995,12.2698389 14.151745,12.2698389 14.3665887,12.4846597 C14.5814325,12.6994805 14.5814325,13.0431938 14.3665887,13.2580147 L8.35096373,19.2729979 C8.13611998,19.4878187 7.79236998,19.4878187 7.57752623,19.2729979 Z M6.16736998,22.5578037 L8.04236998,22.5578037 L8.04236998,23.9756212 L5.52283873,24.4169803 L4.30799498,23.2022662 L4.74940123,20.6830037 L6.16736998,20.6830037 L6.16736998,22.5578037 Z" id="path-2"></path>
+        <filter x="-10.0%" y="-5.0%" width="120.0%" height="120.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0862745098   0 0 0 0 0.11372549   0 0 0 0 0.145098039  0 0 0 0.147616621 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-10.0%" y="-5.0%" width="120.0%" height="120.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.106884058 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="STATIC-MENU-NAV/LISTINGS-&gt;-ABOUT" transform="translate(-26.000000, -88.000000)">
+            <g id="STATIC-MENU-NAV">
+                <g id="Group" transform="translate(-9.000000, 66.000000)">
+                    <g id="Group-14">
+                        <g id="Group-10" transform="translate(33.833333, 16.000000)">
+                            <g id="Icons/Solid/pencil-alt">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+                                <path stroke="#3670DE" stroke-width="1" d="M15.7534207,8.68037808 L20.0462762,12.9727756 L21.8255542,11.1936874 C22.3644846,10.6548146 22.3644846,9.78478018 21.8255542,9.24877116 L19.4788421,6.90230686 C18.9396646,6.36605463 18.0679911,6.36605463 17.5326233,6.90136537 L15.7534207,8.68037808 Z M14.1654364,10.268193 L4.03898953,20.3935596 L3.23785491,24.9844707 C3.18521082,25.2821504 3.44556528,25.5418587 3.74510376,25.4907285 L8.33565778,24.6860506 L18.4602256,14.5625629 L14.1654364,10.268193 Z M7.2239917,19.6265702 C6.81386065,19.2164829 6.81386065,18.556158 7.2239917,18.1460707 L13.2396167,12.1310874 C13.6497183,11.7210296 14.3100217,11.7210296 14.7201233,12.1310874 C15.1302543,12.5411747 15.1302543,13.2014996 14.7201233,13.6115869 L8.70449826,19.6265702 C8.29439668,20.036628 7.63409328,20.036628 7.2239917,19.6265702 Z M6.66736998,22.0578037 L8.54236998,22.0578037 L8.54236998,24.3956472 L5.35309929,24.9543281 L3.77063325,23.3720308 L4.32939063,20.1830037 L6.66736998,20.1830037 L6.66736998,22.0578037 Z" stroke-linejoin="square"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
